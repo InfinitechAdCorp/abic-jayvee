@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     description:
       "Explore a wide range of condos, offices, and properties for sale, lease, or rent. Abic Realty ensures seamless real estate transactions.",
     url: "https://www.abicrealty.com",
-    siteName: "Abic Realty",
+    siteName: "Abic Realty by Jayvee Valeriano",
     images: [
       {
         url: "https://abic-agent-bakit.s3.ap-southeast-1.amazonaws.com/media/abic-realty-banner.png",
